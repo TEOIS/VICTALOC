@@ -47,7 +47,7 @@ Along with Location Information we also get **Device Information** without any p
 
 * Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
 
-* Seeker uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so Seeker works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, Seeker fallbacks to IP Geolocation or it will look for Cached Coordinates.  
+* VICTALOC uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so Seeker works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, VICTALOC fallbacks to IP Geolocation or it will look for Cached Coordinates.  
 
 * Generally if a user accepts location permsission, Accuracy of the information recieved is **accurate to approximately 30 meters**
 
