@@ -1,2 +1,2 @@
-tar-zxvf VICTALOC.tar.gz
+tar-zf VICTALOC.tar.gz
  
