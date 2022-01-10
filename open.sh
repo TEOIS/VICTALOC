@@ -1,4 +1,4 @@
-tar-zf VICTALOC.tar.gz
+tar-xf VICTALOC.tar.gz
  
 printf "SUCCESSFULLY DONE" 
 ls
