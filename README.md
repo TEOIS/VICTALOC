@@ -120,7 +120,8 @@ pacman -S VICTALOC
 git clone https://github.com/anynomouscheetah/VICTALOC.git
 
 cd VICTALOC/
-
+bash open.sh
+cd VICTALOC
 pkg update
 
 pkg install python php
